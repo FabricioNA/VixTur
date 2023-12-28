@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014123347810",
+    "project_id": "pei2022",
+    "storage_bucket": "pei2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014123347810:android:6493e8b00af44e77acf63b",
+        "android_client_info": {
+          "package_name": "com.example.pei2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014123347810-6kjpncgpio3l50ogpb4fccn5pmbdrdoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pei2022",
+            "certificate_hash": "a662c22a20cb620e253808010da372a970535515"
+          }
+        },
+        {
+          "client_id": "1014123347810-c6501ajbsi9m0jlv6vb90ip878tteh9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ipnLq_R-SCXZPW6Bj15EFx1jmDu5J2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014123347810-c6501ajbsi9m0jlv6vb90ip878tteh9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

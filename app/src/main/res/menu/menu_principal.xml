@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/praias"
+        android:id="@+id/item_praias"
+        />
+    <item
+        android:title="@string/Parques"
+        android:id="@+id/item_parques"
+        />
+    <item
+        android:title="@string/BelezasNaturais"
+        android:id="@+id/item_belezas_naturais"
+        />
+    <item
+        android:title="@string/Igreja_e_Conventos"
+        android:id="@+id/item_Igreja_e_Conventos"
+        />
+    <item
+        android:title="@string/museu"
+        android:id="@+id/museu"
+        />
+</menu>
