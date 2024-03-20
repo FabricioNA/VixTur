@@ -32,11 +32,11 @@ Aplicativo estilo Instagram de visualização de pontos turísticos, possuindo i
 - Minimum SDK level: 21
 - [Linguagem Java](https://www.java.com/)
 
-- Firebase
+- [Firebase](https://firebase.google.com/)
   - Armazenamento em Nuvem (Cloud Storage):
     O Firebase oferece armazenamento em nuvem para seus aplicativos Android. Isso permite que você armazene e recupere dados, como imagens, vídeos e outros arquivos, de forma eficiente e escalável.
 
-- OpenStreetMap 
+- [OpenStreetMap](https://www.openstreetmap.org/) 
   - OSM é um projeto colaborativo de mapeamento geoespacial que visa criar um mapa mundial gratuito e editável.
     
 ## Arquitetura
