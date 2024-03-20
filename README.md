@@ -53,12 +53,12 @@ Aplicativo estilo Instagram de visualização de pontos turísticos, possuindo i
 ## Features
 
 ### Imagens em Cache
-<img src="screenshots/CacheImagens.gif" width="25%"/>
+<img src="screenshots/rolamento.gif" width="25%"/>
 
 Ao abrir a listagem dos pontos as imagens sao buscadas pelo banco do firebase e sao armazenadas em cache da memoria do celular.
 
 ### Mapas
-<img src="screenshots/ScreenVejaMais.gif" width="25%"/>
+<img src="screenshots/maps2.gif" width="25%"/>
 
 O Veja Mais de cada ponto turístico mostra o mapa o ponto de sua geolocalização.
 
